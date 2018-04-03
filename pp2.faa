@@ -1,0 +1,23 @@
+>Unannotated|[APTF_contig10049]|2355..2468|Possible precursor....
+MRRVYQPLSFPVARPSSSRTRVKSSCPSSSSWAIRFR
+
+>Unnannotated|[CLOF_contig30738]|2568..2679|precursor
+MRRVYQPLSFPVARPSSSRTRVKSSCPSSSSWAIRFR
+
+>Unannotated|[ACOFG987_contig19579]|1077..1188|Potential precursor peptide
+MRRVYQPLSFPVARPSSSRTRVKSSCPSSSSWAIRFR
+
+>unannotated|[ACOFG988_contig16625]|complement(6057..6286)|Potential precursor peptide.  There is a stop codon below (UGA, last stop codon is UAA).  Possibly different codon translation?  Or mistake in sequencing?  It is likely that a C should go in that stop codon, as UCA would code a cysteine.
+MRRVYQPLSFPVARPSSSRTRVKSSWPSSSSWAIRFR
+
+>unannotated|[AECF_contig21270]|2268..2496|Potential precursor peptide
+FARSALKIDVLNSIVHSVQISACSRSPPASASIAFSSPIRNVYQPLSEPVARPNNSRTRVKSSNPSSSNCAIRLR
+
+>Unannotated|[APTF_contig15600]|complement(1807..2027)|
+MLICPFVSIMANRTCPSCSTPPSRSSIKNSNSVMFSDCKRSHASSPSSTTMTGFPSSKSSSFSLRDISHITSR
+
+>unannotated|[ACOFG987_contig46931]|complement(1308..1533)|Potential precursor
+LARSGLKMEALNSMVHSVQINACSRSPPAKASIAFSSPIRRVYQPLSLPVARPNSSRTRVKSSSPSSSICSMSAR
+
+>unannoatated|[ACEF_contig07455]|complement(5228..5453)|potential precursor
+LARSALKMDALNSMVHSVQIRACSISPPASASIAFSSPMRSVYQPLSLPVAIPSSSRTRVKSSRPSSSICSISAR
